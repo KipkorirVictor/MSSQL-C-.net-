@@ -1,0 +1,1 @@
+string connectionString = "Server=BETTPC\SQLEXPRESS;Database=TestDB;Integrated Security=true;";
